@@ -7,7 +7,7 @@ package com.gtguigu;
  */
 public class gi {
     public static void main(String[] args) {
-        System.out.println("hello git asdfad");
-
+        System.out.println("hello git asdfad fenzhi");
+        System.out.println("fenzhi");
     }
 }
